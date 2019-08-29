@@ -4,6 +4,7 @@ test y cosas varias
 
 Git
 crear el repo vacío (o no) en github y copiar el enlace html (ver hss)
+para hacerlo desde el fichero local https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
 
 ir al directorio local y en la terminal clonar el repo con
 git clone (la url del repo en github)
